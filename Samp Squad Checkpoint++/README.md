@@ -1,4 +1,4 @@
-✪✪✪ Main (Checkpoint mod)
+# ✪✪✪ Main (Checkpoint mod)
 
 1. Download and install moonloader
 
@@ -17,7 +17,7 @@
 
 
 
-✪✪✪ Extra (GPS mod):
+# ✪✪✪ Extra (GPS mod):
 
 1. Download and install modloader
 
@@ -26,7 +26,7 @@
 
 
 
-✪✪✪ Credits
+# ✪✪✪ Credits
 
 Developer: Arafat N Uzumaki (Arafat#0502)
 
@@ -36,11 +36,11 @@ Special Thanks to: Naruto (NaRu#1507) Marowan Goku (!Goku#1254) Adib (Adib23704#
 
 
 
-✪✪✪ GPS Credits
+# ✪✪✪ GPS Credits
 https://github.com/janglapuk/SAMP-GPS
 
 Update: https://sampik.net/asi-lua-sf/380-samp-gps-line-mod-fixed.html
 
 
 
-Do not share mods associated here without credits.
+# Do not share mods associated here without credits.
