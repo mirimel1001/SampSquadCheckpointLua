@@ -5,13 +5,13 @@ This is a Moonloader-LUA modification that allows you to set a checkpoint on a S
 
 # Credits
 **Developer:**
-Arafat N Uzumaki (Arafat#0502)
+Arafat N Uzumaki (Arafat#0502) | https://github.com/arafatislam
 
 **Ganglist Update:**
 Salman (autocorrect#7700)
 
 **Special Thanks to:**
-Naruto (NaRu#1507)
+Naruto (NaRu#1507) | https://github.com/mirimel1001
 Marowan Goku (!Goku#1254)
 Adib (Adib23704#8947)
 
