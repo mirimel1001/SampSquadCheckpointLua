@@ -1,0 +1,14 @@
+Credit: https://github.com/janglapuk/SAMP-GPS
+
+Update: https://sampik.net/asi-lua-sf/380-samp-gps-line-mod-fixed.html
+
+Shows the path to the destination on the radar and on the map in the menu.
+It is activated if there is a mark on the radar and you are in a vehicle.
+
+Update from 10.02.2022:
+
+* Fixed the distance restriction, due to which there were no paths for cars and pedestrians in the upper right corner of the map;
+
+* Support for mods that extend the standard map and added an increased distance in the SAMP.
+--------------------------------------------------------------------------------------------------------------------------------
+This modification has been downloaded from - Sampik.Net
