@@ -16,9 +16,9 @@ Marowan Goku (!Goku#1254)
 Adib (Adib23704#8947)
 
 # Updates:
-**January 9th, 2021:** added Gang HQ's, Bengali HQ, HMA :eyes:
+**January 9th, 2021:** v2 added Gang HQ's, Bengali HQ, HMA :eyes:
 
-**June 17th, 2022:** added new public github repository, new optimized GUI, auto gang list update option in settings, new gang locations, Nearest Pay N Spray button, cross support with GPS.asi.
+**June 17th, 2022:** v3 added new public github repository, new optimized GUI, auto gang list update option in settings, new gang locations, Nearest Pay N Spray button, cross support with GPS.asi.
 
 # GPS Credits
 https://github.com/janglapuk/SAMP-GPS
