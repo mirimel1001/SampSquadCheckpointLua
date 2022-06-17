@@ -12,3 +12,11 @@ Salman (autocorrect#7700)
 Naruto (NaRu#1507)
 Marowan Goku (!Goku#1254)
 Adib (Adib23704#8947)
+
+# Updates:
+January 9th, 2021: added Gang HQ's, Bengali HQ, HMA :eyes:
+
+# GPS Credits
+https://github.com/janglapuk/SAMP-GPS
+
+Update: https://sampik.net/asi-lua-sf/380-samp-gps-line-mod-fixed.html
