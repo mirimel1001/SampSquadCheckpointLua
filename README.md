@@ -12,3 +12,32 @@ This has the updated gang list and coordinates.
 # version
 
 This includes the version name and cpganglist.ini link.
+
+
+# DNA Replication & Sequencing Modules
+
+This repository also includes comprehensive Lua modules for DNA sequence analysis:
+
+- **dna_replication.lua** - DNA replication, complementary base pairing, transcription
+- **dna_sequencing.lua** - Sequence analysis, pattern matching, restriction sites
+
+See [DNA_README.md](DNA_README.md) for detailed documentation and usage examples.
+
+### Quick Start
+
+```lua
+local dna_replication = require("dna_replication")
+local dna_sequencing = require("dna_sequencing")
+
+-- Replicate DNA
+local result = dna_replication.replicate("ATGCGATCG")
+print("Original:   " .. result.original)
+print("Complement: " .. result.complement)
+
+-- Analyze sequence
+local stats = dna_sequencing.sequence_stats("ATGCGATCG")
+print("GC Content: " .. stats.gc_content .. "%")
+```
+
+Run examples: `lua5.3 dna_examples.lua`  
+Run tests: `lua5.3 dna_tests.lua`
